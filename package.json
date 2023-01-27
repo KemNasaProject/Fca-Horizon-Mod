@@ -27,7 +27,7 @@
     "crypto": "latest",
     "crypto-js": "latest",
     "express": "latest",
-    "file-url": "^3.0.0",
+    "file-url": "^4.0.0",
     "got": "^11.8.3",
     "horizon-sp": "file:Horizon_Package/horizon-sp",
     "https-proxy-agent": "latest",
