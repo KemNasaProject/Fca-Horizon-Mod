@@ -38,7 +38,7 @@
     "npmlog": "latest",
     "os": "latest",
     "path": "latest",
-    "pretty-ms": "7.0.1",
+    "pretty-ms": "8.0.0",
     "readline": "latest",
     "request": "latest",
     "synthetic-horizon-database": "file:Horizon_Package/Synthetic-Horizon-Database",
